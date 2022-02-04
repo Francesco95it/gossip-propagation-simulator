@@ -1,7 +1,7 @@
 {
-  "name": "node-typescript-boilerplate",
-  "version": "0.0.0",
-  "description": "Minimalistic boilerplate to quick-start Node.js development in TypeScript.",
+  "name": "gossip-propagation-simulator",
+  "version": "0.0.1",
+  "description": "A simulation of gossip propagation between different type of persons in an Event based and immutable way",
   "engines": {
     "node": ">= 16.13 <17"
   },
@@ -30,8 +30,7 @@
     "test": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
-  "license": "Apache-2.0",
+  "author": "Francesco Spagnolo",
   "dependencies": {
     "tslib": "~2.3.1"
   },
